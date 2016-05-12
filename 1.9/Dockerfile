@@ -1,4 +1,4 @@
-FROM docker:1.11.1
+FROM docker:1.9.1
 
 MAINTAINER Tobias Gurtzick <magic@wizardtales.com>
 
